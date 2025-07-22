@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xtuz112/EggRandomizer/refs/heads/main/Refresher"))()
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/evj5DDoVfL/0", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xtuz112/zenrandomizer/refs/heads/main/zenrandomizer"))()
