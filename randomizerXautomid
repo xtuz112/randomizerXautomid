@@ -1,2 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xtuz112/EggRandomizer/refs/heads/main/Refresher"))()
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/SZJBSl0q587TH2lM/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/odIf9fF8/raw"))()
