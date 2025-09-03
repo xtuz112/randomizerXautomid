@@ -1,5 +1,1 @@
-ID="1ce219c7-5610-4372-8256-32a62bf4fc8d";
-loadstring(game:HttpGet("http://5.129.217.87:3910/cdn/loader.luau"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xtuz112/EggRandomizer/refs/heads/main/Refresher"))()
-
-
+loadstring(game:HttpGet("https://pastefy.app/uBdZJiGW/raw"))()
